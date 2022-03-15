@@ -14,3 +14,5 @@ File 3 Lesson : https://youtu.be/ukMdH5rmi1g
 File 4 Lesson : https://youtu.be/oNZjo6yZqN4
 
 File 5 Lesson : https://youtu.be/I1bf_XXA48M
+
+File 6 Lesson : https://youtu.be/aa_DHLbk54Y
