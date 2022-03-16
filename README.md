@@ -18,3 +18,5 @@ File 5 Lesson : https://youtu.be/I1bf_XXA48M
 File 6 Lesson : https://youtu.be/aa_DHLbk54Y
 
 File 7 Lesson : https://youtu.be/0RuiMzzhC8c
+
+File 8 Lesson : https://youtu.be/s4idOEJLK7M
