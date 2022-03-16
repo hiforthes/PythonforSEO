@@ -1,5 +1,5 @@
 # PythonforSEO
-Let's learn how to do SEO with Python!
+Welcome to the series I prepared for people dealing with On-Page SEO. This is a series that I aim to teach you how to easily check the values of a website with Python.
 
 Youtube channel : https://www.youtube.com/channel/UCztnYtNLZ81wlkOJMfwVDow
 
